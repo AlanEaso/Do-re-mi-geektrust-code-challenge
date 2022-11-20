@@ -1,0 +1,37 @@
+music:
+  free:
+    duration: 1
+    price: 0
+  personal:
+    duration: 1
+    price: 100
+  premium:
+    duration: 3
+    price: 250
+video:
+  free:
+    duration: 1
+    price: 0
+  personal:
+    duration: 1
+    price: 200
+  premium:
+    duration: 3
+    price: 500
+podcast:
+  free:
+    duration: 1
+    price: 0
+  personal:
+    duration: 1
+    price: 100
+  premium:
+    duration: 3
+    price: 300
+topup:
+  four_device:
+    duration: 1
+    price: 50
+  ten_device:
+    duration: 1
+    price: 100
